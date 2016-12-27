@@ -1,0 +1,12 @@
+Our story's universe shall remain Earthlike so that any future attempts at creating a final product can remain practical, however we welcome a reasonable amount of fantasy to come into the world as well.
+Given our license, anyone can make a derivitive of any form and change anything they don't like anyway, but for the sake of keeping all of our collaborators sane, this document will keep track of rules of the universe that differ from reality.
+I suggest that if you would like to add, remove, or modify one of the rules listed below, you first fork the main project, show the rest of us what you want to do and why you intend to change the rule, then submit a pull request.  Pull requests to this file will be denied if they do not include a justification or example of why they are worth rules to enforce for the future.
+
+Rules of the Universe
+---------------------
+1. Supernatural, magical, amprmophic or other physics-defying characteristics are fine, but should be used sparingly.
+  1a. The intent of this rule is to keep the story within a reasonable scope that it could potentially be used as a basis for books, music, long or short form screenplays, theatrical productions, or any other form of media without a need for exhuberant special effects budgets.
+  1b. Given the nature of our license, anyone is welcome to go beyond what we choose to include in their own dirivitive works.
+2. Perspective is defined per document file.
+  2a. We are not writing a book, or a script, or a song...   We are creating a story.  Books, scripts, songs, etc. are welcome, however they are better suited as dirivitive works of this story.
+  2b. The exact same event can be written about in a multitude of documents from differing perspectives so long as they do not contradict with each other.
