@@ -1,7 +1,18 @@
-This is a collaborative storytelling adventure for the whole world.  Anyone is free to write a story about anything they like with the ultimate goal of creating a unique universe within which more stories will be written.
+This is a collaborative storytelling adventure for the whole world.  Anyone is free to write a story about anything they like with the ultimate goal of creating a unique universe in which more stories can be written.
+
+For purposes of this project, a story should be treated as a chapter in a book, a scene in a play, or even a simple document of historical record.  Writers should become familliar with the characters, locations, and timelines of other stories, especially those that have already been officially recognized as canon.
 
 There are three important ways of contributing.
-1. Reading
-2. Writing
-3. Revising
+1. Writing
+  - You are welcome to start new stories out of thin air.  There is nothing wrong with us holding on to a large collections of unfinished stories or stems.  In fact, these stems can serve as excellent building blocks for others to finish.
+  - You are also welcome to suggest changes to anybody's story, but avoid changing the overall intent or theme of the existing text.  Think "yes and".  If you are changing a story because it contains elements that are not compatible with canon or the laws of the universe, keep your changes brief and explain in the commit notes why changes needed to be made.
+2. Reading
+  - In this project, reading is an interactive task.  If you find a story that violates canon or the Rules of the Universe, feel free to jump in to writing mode and fix it yourself, or submit a bug or feature request to flag someone else to fix the issue.  Your time and attention can help us form greater continuity across stories.
+3. Organizing
+  - Especially in the early stages of the project, when there isn't much canon to begin with, it is likely that some stories will not have links to other canon works.  Maintaining a list of "orphaned" or connected works can be helpful to other writers looking to expand on a part of the universe.
 
+Stories must be touched by a minimum of 3 contributors before the are elligable to become canonical elements of the greater story.  Once a file is promoted to canon, it cannot be changed, even for the sake of grammar or spelling corrections.  This will be referred to as the single-commit rule. Writers are encouraged to write chunks of story and leave them unfinished in the Story Stems folder.  A story should only move to one of the Complete Stories folders once it has a clear beginning, middle, and end.
+
+Writers are welcome to use any software they like in the writing process, however all submissions should be in plain text documents to provide maximum compatibility with the GitHub service.
+
+To encourage cross-reading, stories shall contain the hash of any canonical stories they are connected to. This connection could be a character mentioning an event that happened in the past, an intersection of two unrelated stories, or an account of the same story from another perspective.  Due to the single-commit rule, these hash links will be unidirectional.
